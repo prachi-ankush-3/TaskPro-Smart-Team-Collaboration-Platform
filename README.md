@@ -99,7 +99,7 @@ TaskPro
 ### 👥 User Management
 
 <p align="center">
-  <img src="outputs/add user.png" width="400"/>
+  <img src="outputs/add_user.png" width="400"/>
   <img src="outputs/maange_user.png" width="400"/>
 </p>
 
@@ -108,7 +108,7 @@ TaskPro
 ### 📝 Task Management
 
 <p align="center">
-  <img src="outputs/create task.png" width="400"/>
+  <img src="outputs/create_task.png" width="400"/>
   <img src="outputs/all_task.png" width="400"/>
 </p>
 
