@@ -22,16 +22,16 @@ The system helps improve **team productivity and task transparency**.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-✅ User Authentication (Login / Signup)
-✅ Role-Based Access Control
-✅ Create and Assign Tasks
-✅ Task Deadline Management
-✅ Task Status Tracking
-✅ User Profile Management
-✅ Notification System
-✅ Task Editing and Deletion
+- ✅ User Authentication (Login / Signup)
+- ✅ Role-Based Access Control
+- ✅ Create and Assign Tasks
+- ✅ Task Deadline Management
+- ✅ Task Status Tracking
+- ✅ User Profile Management
+- ✅ Notification System
+- ✅ Task Editing and Deletion
 
 ---
 
