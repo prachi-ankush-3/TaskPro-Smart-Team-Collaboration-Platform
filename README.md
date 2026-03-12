@@ -89,7 +89,36 @@ TaskPro
 ├── task_management_db.sql
 └── .hintrc
 ```
+## 📸 Project Screenshots
 
+### 🏠 Dashboard
+<img src="outputs/dashboard.png" width="800">
+
+---
+
+### 👥 User Management
+
+<p align="center">
+  <img src="outputs/add user.png" width="400"/>
+  <img src="outputs/maange user.png" width="400"/>
+</p>
+
+---
+
+### 📝 Task Management
+
+<p align="center">
+  <img src="outputs/create task.png" width="400"/>
+  <img src="outputs/all task.png" width="400"/>
+</p>
+
+---
+
+### 🔔 Notifications
+
+<p align="center">
+  <img src="outputs/notification.png" width="400"/>
+</p>
 ---
 
 # ⚙️ System Requirements
