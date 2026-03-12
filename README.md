@@ -100,7 +100,7 @@ TaskPro
 
 <p align="center">
   <img src="outputs/add user.png" width="400"/>
-  <img src="outputs/maange user.png" width="400"/>
+  <img src="outputs/maange_user.png" width="400"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ TaskPro
 
 <p align="center">
   <img src="outputs/create task.png" width="400"/>
-  <img src="outputs/all task.png" width="400"/>
+  <img src="outputs/all_task.png" width="400"/>
 </p>
 
 ---
